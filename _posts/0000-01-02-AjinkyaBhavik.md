@@ -2,5 +2,5 @@ layout: slide
 title: "Welcome to our AjinkyaBhavik'S slide!"
 ---
 Your text
-This is Ajinkya Bhavik Slide
+This is my awesome Slide.
 Use the left arrow to go back!
